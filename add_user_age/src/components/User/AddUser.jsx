@@ -4,7 +4,7 @@ import classes from './AddUser.module.css'
 
 const AddUser = (props) => {
   const addUserHandler =(event)=>{
-    event.preventDefault( );
+    event.preventDefault();
   }
   return (<>
    <Card className={classes.input} >
