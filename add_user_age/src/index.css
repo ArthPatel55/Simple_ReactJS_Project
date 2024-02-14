@@ -4,8 +4,11 @@
 
 html {
   font-family: sans-serif;
+ 
 }
 
 body {
   margin: 0;
+  height: 100vh;
+  background-image: linear-gradient(to right,#eb16f3f0,#09f901ef);
 }
